@@ -1,0 +1,13 @@
+.navbar ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+nav a:hover{
+    color: black;
+}
+
+img{
+    float: left;
+    margin: 40px;
+}
